@@ -1,7 +1,10 @@
 # 💫 About Me:
-🎯 I’m currently working on: Expanding my knowledge in advanced technologies and contributing to collaborative projects.<br><br>🤝 I’m looking to collaborate on: Interesting web development or open-source projects that challenge my skills and help me grow.<br><br>🆘 I’m looking for help with: Strengthening my grasp of Data Structures and Algorithms to excel in problem-solving.<br><br>🌱 I’m currently learning: Backend systems, exploring new programming frameworks, and refining my coding practices.<br><br>💬 Ask me about: Building portfolios, learning paths for web development, or tips for creating user-friendly designs.<br><br>⚡ Fun fact: I find inspiration in everyday challenges and love brainstorming unique tech solutions! 
-
-
+🎯 Actively exploring modern technologies with hands-on experience in **Full Stack Development**, **Cloud Computing**, **Data Analytics**, **Machine Learning**, and **Large Language Models (LLMs)**.<br><br>  
+🤝 Looking to collaborate on: Web development, cloud solutions, or open-source projects that challenge my skills.<br><br>  
+🆘 Seeking help with: Strengthening my knowledge in **Data Structures and Algorithms** and advancing in **machine learning** and **data analytics**.<br><br>  
+🌱 Currently learning: Advanced **backend systems**, cutting-edge frameworks, and refining my cloud and machine learning practices.<br><br>  
+💬 Ask me about: **Full-stack apps**, **cloud solutions**, **data workflows**, or **applying machine learning**.<br><br>  
+⚡ Fun fact: I love solving everyday problems with tech and exploring how **LLMs** can drive innovation!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mothilal-shiva-41151b228) 
 
