@@ -15,5 +15,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MothilalShiva&icon=0&color=0)](https://visitcount.itsvg.in)
 
+--- 
+![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/output/snake.svg)
+
+
 
 
