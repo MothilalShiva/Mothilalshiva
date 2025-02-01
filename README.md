@@ -37,12 +37,14 @@
 ![LLM](https://img.shields.io/badge/LLM-LangChain-%2300A3E0.svg?style=for-the-badge&logo=langchain&logoColor=white) 
 ![Vector Database](https://img.shields.io/badge/Vector%20Database-%23007396.svg?style=for-the-badge&logo=vector&logoColor=white)  
 
-### 🔹 DevOps & CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23007ACC.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
-![DevOps](https://img.shields.io/badge/DevOps-%23234B98.svg?style=for-the-badge&logo=devops&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230087ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+## 🚀 DevOps & CI/CD
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%234caf50.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+
 
 
 # 📊 GitHub Stats:
