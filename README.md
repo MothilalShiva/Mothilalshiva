@@ -1,11 +1,5 @@
 # 💫 About Me:
-🎯 I’m actively exploring modern technologies and have hands-on experience with projects in **Full Stack Development**, **Cloud Computing**, **Data Analytics**, **Machine Learning**, and **Large Language Models (LLMs)**.<br><br>  
-🤝 I’m looking to collaborate on: Web development, cloud solutions, or open-source projects that challenge my skills and help me grow.<br><br>  
-🆘 I’m looking for help with: Strengthening my grasp of **Data Structures and Algorithms** and deepening my understanding of complex machine learning and data analytics concepts.<br><br>  
-🌱 I’m currently learning: Advanced backend systems, exploring cutting-edge programming frameworks, and refining my practices in cloud technologies, data analytics, and machine learning.<br><br>  
-💬 Ask me about: **Building full-stack applications**, **cloud solutions**, **data analytics workflows**, or **tips on applying machine learning**.<br><br>  
-⚡ Fun fact: I love solving everyday problems with creative tech solutions and enjoy exploring how emerging technologies like LLMs can drive innovation!
-
+🎯 I’m currently working on: Expanding my knowledge in advanced technologies and contributing to collaborative projects.<br><br>🤝 I’m looking to collaborate on: Interesting web development or open-source projects that challenge my skills and help me grow.<br><br>🆘 I’m looking for help with: Strengthening my grasp of Data Structures and Algorithms to excel in problem-solving.<br><br>🌱 I’m currently learning: Backend systems, exploring new programming frameworks, and refining my coding practices.<br><br>💬 Ask me about: Building portfolios, learning paths for web development, or tips for creating user-friendly designs.<br><br>⚡ Fun fact: I find inspiration in everyday challenges and love brainstorming unique tech solutions! 
 
 
 ## 🌐 Socials:
