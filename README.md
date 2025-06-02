@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎯 Actively exploring modern technologies with hands-on experience in **Full Stack Development**, **Cloud Computing**, **Data Analytics**, **Machine Learning**, and **Large Language Models (LLMs)**.<br><br>  
-🤝 Looking to collaborate on: Web development, cloud solutions, or open-source projects that challenge my skills.<br><br>  
+🤝 Looking to collaborate on: AI, cloud solutions, or open-source projects that challenge my skills.<br><br>  
 🆘 Seeking help with: Strengthening my knowledge in **Data Structures and Algorithms** and advancing in **machine learning** and **data analytics**.<br><br>  
 🌱 Currently learning: Advanced **backend systems**, cutting-edge frameworks, and refining my cloud and machine learning practices.<br><br>  
 💬 Ask me about: **Full-stack apps**, **cloud solutions**, **data workflows**, or **applying machine learning**.<br><br>  
@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mothilal-shiva-41151b228) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
@@ -17,7 +16,6 @@
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
